@@ -7,6 +7,6 @@ class HelloWorld
 	// Prints "Hello, World" to the terminal window.
 	public static void main(String args[])
 	{
-		System.out.println("Hello, test by pOLL SCM GREAT  World");
+		System.out.println("Test, Using GITHUB webhook run auto job");
 	}
 }
