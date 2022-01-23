@@ -7,6 +7,6 @@ class HelloWorld
 	// Prints "Hello, World" to the terminal window.
 	public static void main(String args[])
 	{
-		System.out.println("Hello, my build job run finsih after change default repo to main replo World");
+		System.out.println("Hello, my build job run finsih after change default repo to main replo ok thats Great World");
 	}
 }
