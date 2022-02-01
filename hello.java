@@ -7,6 +7,6 @@ class HelloWorld
 	// Prints "Hello, World" to the terminal window.
 	public static void main(String args[])
 	{
-		System.out.println("Jenkins Udemy a new chang ");
+		System.out.println("Jenkins server ip changes ");
 	}
 }
